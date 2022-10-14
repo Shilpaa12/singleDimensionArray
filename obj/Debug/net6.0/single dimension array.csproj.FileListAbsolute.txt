@@ -1,0 +1,15 @@
+C:\Users\Hello\source\repos\single dimension array\single dimension array\bin\Debug\net6.0\single dimension array.exe
+C:\Users\Hello\source\repos\single dimension array\single dimension array\bin\Debug\net6.0\single dimension array.deps.json
+C:\Users\Hello\source\repos\single dimension array\single dimension array\bin\Debug\net6.0\single dimension array.runtimeconfig.json
+C:\Users\Hello\source\repos\single dimension array\single dimension array\bin\Debug\net6.0\single dimension array.dll
+C:\Users\Hello\source\repos\single dimension array\single dimension array\bin\Debug\net6.0\single dimension array.pdb
+C:\Users\Hello\source\repos\single dimension array\single dimension array\obj\Debug\net6.0\single dimension array.csproj.AssemblyReference.cache
+C:\Users\Hello\source\repos\single dimension array\single dimension array\obj\Debug\net6.0\single dimension array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hello\source\repos\single dimension array\single dimension array\obj\Debug\net6.0\single dimension array.AssemblyInfoInputs.cache
+C:\Users\Hello\source\repos\single dimension array\single dimension array\obj\Debug\net6.0\single dimension array.AssemblyInfo.cs
+C:\Users\Hello\source\repos\single dimension array\single dimension array\obj\Debug\net6.0\single dimension array.csproj.CoreCompileInputs.cache
+C:\Users\Hello\source\repos\single dimension array\single dimension array\obj\Debug\net6.0\single dimension array.dll
+C:\Users\Hello\source\repos\single dimension array\single dimension array\obj\Debug\net6.0\refint\single dimension array.dll
+C:\Users\Hello\source\repos\single dimension array\single dimension array\obj\Debug\net6.0\single dimension array.pdb
+C:\Users\Hello\source\repos\single dimension array\single dimension array\obj\Debug\net6.0\single dimension array.genruntimeconfig.cache
+C:\Users\Hello\source\repos\single dimension array\single dimension array\obj\Debug\net6.0\ref\single dimension array.dll
